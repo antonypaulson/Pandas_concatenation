@@ -15,4 +15,4 @@ Your final data frame should look like the image below:
 
 ![](iris.png)
 
-**BONUS**: Change the values in the `'species'` column from 0, 1, 2 to their corresponding species.
+**BONUS**: Change the values in the `'species'` column from 0, 1, 2 to their corresponding species (Setosa, Versicolor and Virginica).
